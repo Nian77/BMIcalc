@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# 忽略 .vscode 目錄
+.vscode
+
 # C extensions
 *.so
 
